@@ -120,7 +120,7 @@ article h2{
     font-size: 1.3em;
     text-shadow: 0px 0px 5px rgba(46, 94, 66, 0.37);
     background-image: linear-gradient(to right, var(--cor1), white);
-    text-indent: 8px;
+    text-indent: 10px;
 }
 article p{
     text-align: justify;
